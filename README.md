@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seanpelak
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Web Dev projects.
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to get a job
 - 📫 How to reach me ... you can't atm ;P
 
 <!---
