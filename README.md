@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Web Dev projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ... you can't atm ;P
 
 <!---
 seanpelak/seanpelak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
